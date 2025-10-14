@@ -11,7 +11,6 @@
 	<groupId>com.example</groupId>
 	<artifactId>BookManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>BookManagement</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
@@ -66,7 +65,6 @@
 	</dependencies>
 
 	<build>
-	<finalName>springbootbookapi</finalName>
 
 		<plugins>
 			<plugin>
